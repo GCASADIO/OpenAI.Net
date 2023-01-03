@@ -14,6 +14,7 @@
     <PackageTags>openai open ai wrapper openai.net</PackageTags>
     <PackageReleaseNotes>Adds user id option to completions</PackageReleaseNotes>
     <Version>1.0.4</Version>
+    <TargetFrameworks>net472</TargetFrameworks>
   </PropertyGroup>
 
 	<ItemGroup>
